@@ -1,25 +1,5 @@
 # Starcraft2_MoveToBeacon
 
-<p align="center" >
-   <a href="">
-    <img alt="react-native-gifted-chat" src="https://media.giphy.com/media/PkirsH2XFiLrZ3iofH/giphy.gif" width="900" height="510" />
- </a>
-
-</p>
-
-<h3 align="center">
-  :trollface: Une unité de SCII avant entrainement
-</h3>
-<p align="center">
-  Une unité sur Starcraft II (Marine) doit se deplacer sur la balise <br/>
-  <small></small>
-</p>
-
-<p align="center" >
-   <a href="">
-    <img alt="react-native-gifted-chat" src="https://media.giphy.com/media/PkirsH2XFiLrZ3iofH/giphy.gif" width="900" height="510" />
- </a>
-
 </p>
 
 <h3 align="center">
