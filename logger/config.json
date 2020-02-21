@@ -1,0 +1,31 @@
+{
+    "__class__":	"PolicyGradient",
+    "action_space":	4096,
+    "buffer_size":	512,
+    "input_space":	[
+        64,
+        64
+    ],
+    "pi_lr":	0.0001,
+    "seed":	42,
+    "self":	{
+        "<beacon_network.PolicyGradient object at 0x00000220BAB396C8>":	{
+            "logger":	{
+                "<rlsrc.logx.EpochLogger object at 0x00000220BAB395C8>":	{
+                    "epoch_dict":	{},
+                    "exp_name":	null,
+                    "first_row":	true,
+                    "log_current_row":	{},
+                    "log_headers":	[],
+                    "output_dir":	"./logger",
+                    "output_file":	{
+                        "<_io.TextIOWrapper name='./logger\\\\progress.txt' mode='w' encoding='cp1252'>":	{
+                            "mode":	"w"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "vf_lr":	0.0001
+}
